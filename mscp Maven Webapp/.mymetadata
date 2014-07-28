@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mscp Maven Webapp"
+  id="myeclipse.1406463169066"
+  context-root="/mscp"
+  j2ee-spec="6.0"
+  archive="mscp Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

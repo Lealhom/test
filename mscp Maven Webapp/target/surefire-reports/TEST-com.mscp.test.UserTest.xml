@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="6.291" errors="0" skipped="0" tests="1" name="com.mscp.test.UserTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\bin"/>
+    <property name="java.vm.version" value="11.3-b02"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\gitRespository\mscp\mscp"/>
+    <property name="java.runtime.version" value="1.6.0_13-b03"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows Vista"/>
+    <property name="classworlds.conf" value="F:\MyEclipse\Workspaces\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf5926133699864094800.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\oracle\product\11.2.0\dbhome_1\bin;.;F:\Program Files (x86)\Java\jdk1.6.0_21\bin;F:\WIN 7 优化大师\Windows7Master;F:\apache-maven-3.0.5-bin\apache-maven-3.0.5\bin;C:\Windows\System32;F:\Program Files (x86)\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Windows;C:\Windows\system32\wbem;C:\Users\admin\Desktop\UltraEdit\;C:\Program Files (x86)\DBank\ClickUp;C:\Program Files (x86)\DBank\ClickUp"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\admin"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="user.name" value="admin"/>
+    <property name="java.class.path" value="F:\apache-maven-3.0.5-bin\apache-maven-3.0.5\boot\plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_13"/>
+    <property name="java.ext.dirs" value="F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\resources.jar;F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\rt.jar;F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\sunrsasign.jar;F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\jsse.jar;F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\jce.jar;F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\charsets.jar;F:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="F:\apache-maven-3.0.5-bin\apache-maven-3.0.5"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="6.103" classname="com.mscp.test.UserTest" name="addUser"/>
+</testsuite>
